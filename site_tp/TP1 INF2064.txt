@@ -1,0 +1,16 @@
+    TP1 INF2064
+
+1- 
+- accueil.php: un fichier php qui donne access au autres pages php a traver des bouton ou options
+- index.php :  le fichier php principale qiu lance les autres pages
+- biblio.php : un fichier php qui permet dafficher les info dun table dans la bd ou de ce connecter a la bd
+- style.css: fichier css pour les style et design des pages
+- tp_bd.sql un fichier sql qui contient les request de creation de table de la base de donnee
+2- 
+En utilisant l'interface phpMyAdmin. 
+- On créé la base de donner nom tp_bd
+- on selection la base de donner en question
+- on prends l'options import et on choissi le repertoir ou tp_bd ce trouve(site_tp)
+- on lance et la base de donnee est importéé
+3-
+- on copie le dossier site_tp dans le dossier htdocs de xampp 
