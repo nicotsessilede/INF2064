@@ -1,0 +1,51 @@
+.bodyHome {
+    background: url("../images/ferme.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+.bodyPorc {
+    background: url("../images/porcherie.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+.bodyPoul {
+    background: url("../images/poulailler.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+.bodyBerg {
+    background: url("../images/bergerie.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    color: aliceblue;
+}
+
+
+/* unvisited link */
+
+a:link {
+    color: red;
+}
+
+
+/* visited link */
+
+a:visited {
+    color: green;
+}
+
+
+/* mouse over link */
+
+a:hover {
+    color: hotpink;
+}
+
+
+/* selected link */
+
+a:active {
+    color: blue;
+}
